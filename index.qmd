@@ -1,0 +1,93 @@
+---
+format: 
+  revealjs:
+    theme: estilos.scss
+    fontcolor: "#515151"
+editor_options: 
+  chunk_output_type: console
+---
+
+
+
+# {background-color="#88398A" data-menu-title="Portada"}
+
+[**¡Hola!**]{.ultra-grande}
+
+[**Somos RLadies Chile**]{.mas-grande}
+
+
+
+[{{< fa link >}} **linktr.ee/rladieschile**]{.mediano}
+
+<br/>
+
+Empezamos en:
+
+```{r}
+countdown::countdown(minutes = 5, seconds = 00, top = "87%", right = "69%", font_size = "2em",
+                     box_shadow = 0, 
+  play_sound = TRUE,
+  color_border = "#88398A",
+  color_background = "#fdfcfb",
+  color_text = "#88398A",
+  color_running_background = "#88398A",
+  color_running_text = "#fdfcfb",
+  color_finished_background = "#515151")
+```
+
+
+# {.centrado}
+
+![](img/hex-logo.png){width="15%"}
+
+[Organización global que promueve la diversidad de género en la comunidad de R]{.mediano}
+
+# {background-color="#88398A" .mas-grande .centrado}
+
+¿Cómo hacemos esto?
+<br/>
+<br/>
+
+::: {.r-fit-text}
+talleres \| mentorías \| charlas \| espacio seguro
+:::
+
+# {background-color="#88398A"}
+
+::: {.r-fit-text}
+**{{< fa file-signature >}} código de conducta**
+:::
+
+# {background-color="#88398A"}
+
+::: {.mas-grande}
+{{< fa  location-dot >}} 218 grupos de RLadies
+
+{{< fa  earth-americas >}} 61 países
+
+{{< fa people-group >}} \> 100.000 participantes
+:::
+<br/>
+<br/>
+
+::: {.mediano}
+En Chile: Santiago, Valparaíso, Concepción y Talca
+:::
+
+# {.mediano .centrado}
+
+RLadies es una de las tantas formas que tiene la comunidad de R de reunirse: hay otros grupos de usuarios, hay conferencias y sobre todo una gran comunidad virtual.
+
+::: {.ultra-grande}
+{{< fa brands twitter >}} {{< fa brands mastodon >}} {{< fa brands meetup >}}
+:::
+
+# {background-color="#88398A" .centrado}
+
+[¡**Hoy**!]{.ultra-grande}
+
+# {}
+
+
+![](img/tidymodels-parte-1.png)
+
