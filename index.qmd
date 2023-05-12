@@ -26,7 +26,6 @@ Empezamos en:
 ```{r}
 countdown::countdown(minutes = 5, seconds = 00, top = "87%", right = "69%", font_size = "2em",
                      box_shadow = 0, 
-  play_sound = TRUE,
   color_border = "#88398A",
   color_background = "#fdfcfb",
   color_text = "#88398A",
