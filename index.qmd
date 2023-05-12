@@ -82,21 +82,12 @@ RLadies es una de las tantas formas que tiene la comunidad de R de reunirse: hay
 {{< fa brands twitter >}} {{< fa brands mastodon >}} {{< fa brands meetup >}}
 :::
 
-# {}
-
-![](img/latinr-2023.png)
-
-::: {.centrado}
-latin-r.com / @latinr_conf
-:::
-
-
-# {background-color="#88398A" .centrado}
+# {background-color="#FFFFFF" .centrado}
 
 [¡**Hoy**!]{.ultra-grande}
 
-# {}
+# {background-color="#16142a"}
 
 
-![](img/tidymodels-parte-2.png)
+![](img/introduccion-tidyverse.png)
 
