@@ -73,6 +73,10 @@ talleres \| mentorías \| charlas \| espacio seguro
 En Chile: Santiago, Valparaíso, Concepción y Talca
 :::
 
+# {background-color="#88398A" .ultra-grande .centrado}
+
+¿Cómo apoyarnos?
+
 # {.mediano .centrado}
 
 RLadies es una de las tantas formas que tiene la comunidad de R de reunirse: hay otros grupos de usuarios, hay conferencias y sobre todo una gran comunidad virtual.
