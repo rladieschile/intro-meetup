@@ -60,11 +60,11 @@ talleres \| mentorías \| charlas \| espacio seguro
 # {background-color="#88398A"}
 
 ::: {.mas-grande}
-{{< fa  location-dot >}} 218 grupos de RLadies
+{{< fa  location-dot >}} +200 grupos de RLadies
 
-{{< fa  earth-americas >}} 61 países
+{{< fa  earth-americas >}} +60 países
 
-{{< fa people-group >}} \> 100.000 participantes
+{{< fa people-group >}} \> +100000 participantes
 :::
 <br/>
 <br/>
@@ -85,20 +85,12 @@ RLadies es una de las tantas formas que tiene la comunidad de R de reunirse: hay
 {{< fa brands twitter >}} {{< fa brands mastodon >}} {{< fa brands meetup >}}
 :::
 
-# {}
-
-![](img/latinr-2023.png)
-
-::: {.centrado}
-latin-r.com / @latinr_conf
-:::
 
 # {background-color="#FFFFFF" .centrado}
 
 [¡**Hoy**!]{.ultra-grande}
 
-# {background-color="#c5cdff"}
+# {background-color="#c5cdff" .grande .centrado}
 
-
-![](img/que-hay-de-nuevo-en-el-tidyverse.png)
+![](img/furrr.png)
 
