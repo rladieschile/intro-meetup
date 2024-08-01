@@ -90,7 +90,7 @@ RLadies es una de las tantas formas que tiene la comunidad de R de reunirse: hay
 
 [¡**Hoy**!]{.ultra-grande}
 
-# {background-color="#c5cdff" .grande .centrado}
+# {.grande .centrado}
 
-![](img/furrr.png)
+![](img/agosto_latinr.png)
 
