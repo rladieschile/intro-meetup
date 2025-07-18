@@ -61,11 +61,11 @@ talleres \| mentorías \| charlas \| espacio seguro
 # {background-color="#88398A"}
 
 ::: {.mas-grande}
-{{< fa  location-dot >}} +200 grupos de R-Ladies
+{{< fa  location-dot >}} 225 grupos de R-Ladies
 
-{{< fa  earth-americas >}} +60 países
+{{< fa  earth-americas >}} 65 países
 
-{{< fa people-group >}} \> +3000 eventos
+{{< fa people-group >}} +3900 eventos
 :::
 <br/>
 <br/>
