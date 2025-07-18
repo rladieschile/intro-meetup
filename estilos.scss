@@ -15,6 +15,7 @@ $casi-blanco: #fdfcfb !default;
 $morado: #88398A !default;
 $calipso: #20B2AA !default;
 $rosa: #E58D7D !default;
+$violeta: #5542FF;
 
 
 
@@ -87,5 +88,10 @@ $rosa: #E58D7D !default;
 
 .calipso-claro {
   color: #a5e0dd;
+  font-weight: bold;
+}
+
+.violeta {
+  color: $violeta;
   font-weight: bold;
 }

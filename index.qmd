@@ -3,6 +3,7 @@ format:
   revealjs:
     theme: estilos.scss
     fontcolor: "#515151"
+    embed-resources: true
 editor_options: 
   chunk_output_type: console
 ---
@@ -13,7 +14,7 @@ editor_options:
 
 [**¡Hola!**]{.ultra-grande}
 
-[**Somos RLadies Chile**]{.mas-grande}
+[**Somos R-Ladies Chile**]{.mas-grande}
 
 
 
@@ -60,17 +61,17 @@ talleres \| mentorías \| charlas \| espacio seguro
 # {background-color="#88398A"}
 
 ::: {.mas-grande}
-{{< fa  location-dot >}} +200 grupos de RLadies
+{{< fa  location-dot >}} +200 grupos de R-Ladies
 
 {{< fa  earth-americas >}} +60 países
 
-{{< fa people-group >}} \> +100000 participantes
+{{< fa people-group >}} \> +3000 eventos
 :::
 <br/>
 <br/>
 
 ::: {.mediano}
-En Chile: Santiago, Valparaíso, Concepción y Talca
+En Chile: Santiago, Valparaíso, Concepción, Talca y Temuco
 :::
 
 # {background-color="#88398A" .ultra-grande .centrado}
@@ -79,10 +80,14 @@ En Chile: Santiago, Valparaíso, Concepción y Talca
 
 # {.mediano .centrado}
 
-RLadies es una de las tantas formas que tiene la comunidad de R de reunirse: hay otros grupos de usuarios, hay conferencias y sobre todo una gran comunidad virtual.
+R-Ladies es una de las tantas formas que tiene la comunidad de R de reunirse: hay otros grupos de usuarios, hay conferencias y una gran comunidad virtual.
 
-::: {.ultra-grande}
-{{< fa brands twitter >}} {{< fa brands mastodon >}} {{< fa brands meetup >}}
+::: {.grande .fragment .violeta}
+LatinR: 1 al 5 de diciembre
+:::
+
+::: {.fragment .violeta}
+**latinr.org**
 :::
 
 
@@ -92,5 +97,5 @@ RLadies es una de las tantas formas que tiene la comunidad de R de reunirse: hay
 
 # {.grande .centrado}
 
-![](img/agosto_latinr.png)
+![](img/2025-07_holaR.png)
 
